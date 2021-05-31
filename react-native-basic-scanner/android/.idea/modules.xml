@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AwesomeProject.iml" filepath="$PROJECT_DIR$/.idea/modules/AwesomeProject.iml" group="AwesomeProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="AwesomeProject/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/263096233/openCVLibrary310.iml" filepath="$PROJECT_DIR$/.idea/modules/263096233/openCVLibrary310.iml" group="AwesomeProject/openCVLibrary310" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1702647987/react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/1702647987/react-native-fs.iml" group="AwesomeProject/react-native-fs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-117176134/react-native-rectangle-scanner.iml" filepath="$PROJECT_DIR$/.idea/modules/-117176134/react-native-rectangle-scanner.iml" group="AwesomeProject/react-native-rectangle-scanner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1008814334/react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1008814334/react-native-svg.iml" group="AwesomeProject/react-native-svg" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1785810058/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1785810058/react-native-vector-icons.iml" group="AwesomeProject/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>
